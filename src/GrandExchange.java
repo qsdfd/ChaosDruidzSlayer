@@ -6,7 +6,7 @@ import java.net.URL;
 /**
  * GrandExchange Price Class
  * 
- * @author Reid
+ * @author Reid (not me, all praise to this Reid guy)
  *
  */
 public class GrandExchange {
